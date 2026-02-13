@@ -1,0 +1,8 @@
+{
+  "name": "Weekly Planner Pro",
+  "description": "A dark-themed recurring management board with Google Sheets integration and progress tracking.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
